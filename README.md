@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HemiaoZ
+- 👋 Hi, I’m @HemiaoZhang
 - 👀 I’m interested in computational geomechanics
 - 🌱 I’m currently learning more advanced skills in Python and C++
 - 📫 Feel free to drop me a note via hemiaozh [AT] outlook.com
